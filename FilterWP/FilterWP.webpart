@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SharePoint2013.FilterWP.WebParts.FilterWP.FilterWP, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Фильтр</property>
+        <property name="Description" type="string">Фильтр на основе значений столбца списка</property>
+        <property name="TitleIconImageUrl" type="string">/_layouts/15/images/gazprom/ipp-icon.png</property>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/15/images/gazprom/ipp-icon.png</property>
+        <property name="ChromeType" type="ChromeType">None</property>
+        <property name="Width" type="Unit">400px</property>
+        <property name="ParameterName" type="string">Фильтр</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

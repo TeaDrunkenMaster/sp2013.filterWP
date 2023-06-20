@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="153629d9-8f55-43e4-9c9b-c0326eeb572e" solutionId="153629d9-8f55-43e4-9c9b-c0326eeb572e" resetWebServer="false" sharePointProductVersion="15.0" name="SharePoint2013.FilterWP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="2acb0419-95c3-4305-9c99-2e2f9a52a790" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="a4789034-b7d7-4f87-bbe4-4378a2dfb45f" />
+  </projectItems>
+</package>
